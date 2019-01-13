@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+fccec9214d22cea3173e472cc73aab12 src/apps/ping-pong/CMakeFiles/ping-pong.bin
+04d395e9f1f0894116037fa2d9cf71de src/apps/ping-pong/CMakeFiles/ping-pong.hex
